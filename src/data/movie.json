@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2b8ca54f-b872-47bf-b011-9deb991da868",
+    "titulo": "Interestelar la mejor pelicula",
+    "sinopsis": "Viaje en agujero negro",
+    "precioRenta": 5,
+    "director": "Christopher Nolan",
+    "anioEstreno": 2014,
+    "duracion": 190,
+    "imagen": "Interestelar.jpg"
+  },
+  {
+    "id": "6f11c77c-b7a0-4506-ae54-6cc966adb035",
+    "titulo": "Inception",
+    "sinopsis": "A skilled thief is offered a chance to have his past crimes forgiven...",
+    "precioRenta": 6,
+    "director": "Christopher Nolan",
+    "anioEstreno": 2010,
+    "duracion": 148,
+    "imagen": "inception_updated.jpg",
+    "email": "admin@example.com",
+    "genro": "Sci-Fi",
+    "comments": [
+      {
+        "userId": "6dd55511-3b85-4f74-a6c7-9f2e68959362",
+        "comment": "Esta Pelicula es increible!",
+        "rating": 5,
+        "createdAt": "2024-06-26T02:44:06.098Z"
+      }
+    ]
+  }
+]

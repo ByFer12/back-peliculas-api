@@ -1,0 +1,30 @@
+[
+  {
+    "id": "10edf0b7-a9a9-4b3d-ab69-7762a1f2ccbb",
+    "nombre": "Admin",
+    "apellido": "User",
+    "genero": "male",
+    "email": "admin@example.com",
+    "password": "$2b$10$as/SJcOst69DXvd7Ruk5eO44YS2EgayAyZmYGh8SG4AC8VQO7CytW",
+    "cumpleanios": "1980-01-01",
+    "isAdmin": true
+  },
+  {
+    "id": "6dd55511-3b85-4f74-a6c7-9f2e68959362",
+    "nombre": "John",
+    "apellido": "Doe",
+    "genero": "male",
+    "email": "john@example.com",
+    "password": "$2b$10$qebVcLw7bFh3lGu4aoRM8.L/twvwEVjYkHU949/KPoDNbiHm2tl7W",
+    "cumpleanios": "1990-01-01",
+    "isAdmin": false,
+    "rentedMovies": [
+      {
+        "movieId": "6f11c77c-b7a0-4506-ae54-6cc966adb035",
+        "rentedAt": "2024-06-20T15:41:01.045Z",
+        "returnedAt": "2024-06-26T03:14:46.008Z",
+        "fine": 20
+      }
+    ]
+  }
+]
